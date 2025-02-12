@@ -1,6 +1,6 @@
 # :zap: :computer: :zap: Tri-Co Hackathon 2025 :zap: :computer: :zap:
 
-##
+To get started with Github basics, please visit ...
 
 *This is a sample submission repository for Tri-Co Hackathon 2025. You can use this repo as a template for your repository, or create your own repo and add this README.md file with the following information about your team*
 
