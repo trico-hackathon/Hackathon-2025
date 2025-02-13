@@ -1,6 +1,6 @@
 # :zap: :computer: :zap: Tri-Co Hackathon 2025 :zap: :computer: :zap:
 
-*We recommend that you fork this repository, then input your code - if you are all trying to work on the code simultaneously in GitHub, please create branches for each individual working on the code to prevent conflicts. However, please use the system that works best for your group* 
+*We recommend that you use this repository as a template, then input your code - if you are all trying to work on the code simultaneously in GitHub, please create branches for each individual working on the code to prevent conflicts. However, please use the system that works best for your group* 
 
 To get started with Github basics, please visit ...
 
