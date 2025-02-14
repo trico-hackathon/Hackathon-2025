@@ -39,7 +39,7 @@ The person who is creating the repository will choose themselves as the owner of
 
 Once the repository is created, you will choose "Settings" in the top tool bar, then "Collaborators" in the lefthand toolbar. Under "Manage Access", add in the members of your group. You will want to figure out what level of permission each group member should have - you can choose to assign everyone at the "admin" level or give permissions that fits everyones role.
 
-### Branching
+## Branching
 
 Since you will be working on this project with others in your group, you will want to create a branching system.
 
