@@ -28,11 +28,11 @@ In the current Hackathon-2025 repository, you should start off with a README fil
  
 The first thing you will want to do once you're signed in is click on the green button labeled "Use this Template" and "Create new Repository". Only one person in your group will need to do this.
 
-![alt text](image-14.png)
+![alt text](Screenshots/image-14.png)
 
 The person who is creating the repository will choose themselves as the owner of the repository and what the repository will be called. Then when you're ready click on "Create Repository".
 
-![alt text](image-15.png)
+![alt text](Screenshots/image-15.png)
 
 
 ## Add Group Members
@@ -45,24 +45,24 @@ Since you will be working on this project with others in your group, you will wa
 
 Think of these as "alternative universes" to your main branch.
 
-![alt text](image.png)
+![alt text](Screenshots/image.png)
 
 You will be able to make edits to the codebase simultaneously without creating any overlapping.
 
 To create a branch, click on "Main" which stands for your main branch. You will then choose to "View all Branches".
 
-![Branchin screenshot](image-3.png)
+![Branchin screenshot](Screenshots/image-3.png)
 
 You're then going to click on "New Branch" - after that give your branch a name and make sure you are copying it from the correct repository and from the main branch.
 
-![Branchin screenshot 2](image-4.png)
-![Branchin screenshot 3](image-5.png)
+![Branchin screenshot 2](Screenshots/image-4.png)
+![Branchin screenshot 3](Screenshots/image-5.png)
 
 You will be able to tell you're working in the correct repository by seeing the name of your repository instead of main. This is also where you can go to switch between different repositories.
 
 These changes will not appear on the main branch until you have a chance to push them.
 
-![Branchin screenshot 4](image-6.png)
+![Branchin screenshot 4](Screenshots/image-6.png)
 
 ## Create a file
 
@@ -72,15 +72,15 @@ You will want to click on the button marked "Add a File" then "Create a New File
 
 Once you add content, you will want to make sure to "Commit" your file - this takes a screenshot of what your repository looks like at that moment, which allows you to save your progress and go back to this moment in needed.
 
-![commit file](image-7.png)
+![commit file](Screenshots/image-7.png)
 
 You will need to make sure to give your commit a description as a reminder of what changes you implemented during that commit. Make sure that you are committing back to the branch you're working on, unless you're trying to create a new branch for a complicated issue.
 
-![commit file 2](image-8.png)
+![commit file 2](Screenshots/image-8.png)
 
 You should now be able to see your file amongst your other content.
 
-![commit file 3](image-9.png)
+![commit file 3](Screenshots/image-9.png)
 
 ## Pull request
 
@@ -90,13 +90,13 @@ Go to the top toolbar where it says "Pull Requests", then click on the green but
 
 From there, it will ask you as to which two branches you want to compare and then show you what changes exist between the two branches. If everything looks correct click on "Create Pull Request".
 
-![alt text](image-16.png)
+![alt text](Screenshots/image-16.png)
 
 It will then ask you to include a title and description to keep track of which request this is. Once you finish, click on "Create Pull Request" again.
 
 It will then bring you to a page which asks for someone to review the pull request before it's officially merged. You can have your coding partners give it a second opinion, or you can just go ahead and press "Merge Pull Request" and "Confirm Merge" if you don't need a second pair of eyes on it.
 
-![alt text](image-17.png)
+![alt text](Screenshots/image-17.png)
 
 One thing to keep in mind is unfortunately you will not be able to see the changes others are making "live" to the files, so you need to remember to on occassional pull from the main branch to see changes your group members have made.
 
