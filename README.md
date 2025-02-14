@@ -2,7 +2,7 @@
 
 *We recommend that you use this repository as a template, then input your code - if you are all trying to work on the code simultaneously in GitHub, please create branches for each individual working on the code to prevent conflicts. However, please use the system that works best for your group* 
 
-To get started with Github basics, please visit ...
+To get started with Github basics, please visit [instructions here](GitHub-Tutorial/Instructions.md)
 
 This is a sample submission repository for Tri-Co Hackathon 2025. You can use this repo as a template for your repository, or create your own repo and add this README.md file with the following information about your team
 
